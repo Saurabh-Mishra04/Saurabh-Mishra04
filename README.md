@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Saurabh-Mishra04
-- 👀 I’m interested in coding, hacking and machine learning.
+- 👋 Hi, I’m @Saurabh-Mishra04.
+- 👀 I’m interested in coding, cybersecurity and machine learning.
 - 🌱 I’m currently a student.
-- 💞️ I’m looking to collaborate on any topics relateed to bash, hacking tools or python/web-dev.Just a heads up, I am new to the industry and hope to learn new things. And I really hope for your spport and motivation.
+- 💞️ I’m a newbie programmer so looking to collaborate on any topics relateed to bash, web-dev(HTML, CSS).Just a heads up, I am new to the industry and hope to learn new     things and I appreciate any support and motivation.
 - 📫 How to reach me ... Email:saurabhmishra12044@gmail.com
 
 <!---
