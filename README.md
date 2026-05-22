@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh.
-- 👀 I am currently sharpening my front-end skills by building real-world layouts on Frontend Mentor. Currently diving deep into modern JavaScript."
+- 👀 I am currently sharpening my front-end skills by building real-world layouts on Frontend Mentor. Currently diving deep into modern JavaScript.
 - 🌱 I’m currently a student.
 
 <!---
